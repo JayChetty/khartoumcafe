@@ -1,0 +1,60 @@
+.marketing{
+  text-align:center;
+}
+.jumbotron{
+/*  background: url('../images/glasgow.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 500px;*/
+  padding-top:20px;
+  padding-bottom:70px;
+  background-color: #99BBCC;
+  min-height: 200px;
+}
+.jumbotron h2{
+  color: #fff;
+  text-shadow: 0 0 10px rgba(0,0,0,.5);
+  position:relative;
+  margin-top:30px;
+}
+
+.treatment-body{
+  padding:10px;
+}
+
+img{
+  border-radius: 6px;
+}
+
+.nav{
+  margin-top:10px;
+}
+
+.header{
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+.phone-number{
+  position:absolute;
+  margin-top:10px;
+}
+
+.opening-hours{
+  margin-left:auto; 
+  margin-right:auto;
+  margin-bottom:15px;
+}
+
+.opening-hours td{
+  padding-right: 15px;
+  text-align:right;
+}
+
+.center{
+  display:inline;
+}
+
+
+
